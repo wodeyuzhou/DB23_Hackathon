@@ -1,8 +1,8 @@
 # DB23 Hackathon-bike-sharing-demand
 https://www.kaggle.com/competitions/db23-hackathon/overview
 - code/ - main code
-    >main.py - solution based on Gradient Boost and Random Forest, rank 1 (55.63506) within 60 lines of code
-    >main.ipynb - detailed solution with some explanations
+    - main.py - solution based on Gradient Boost and Random Forest, rank 1 (55.63506) within 60 lines of code
+    - main.ipynb - detailed solution with some explanations
 - data/ - the datasets
 - output/ - output of the solution
 
