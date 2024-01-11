@@ -26,6 +26,6 @@ https://www.kaggle.com/competitions/db23-hackathon/overview
 ### Evaluation
 - Evaluated by RMSE
 
-### Cited
+### Citation
 - https://github.com/logicalguess/kaggle-bike-sharing-demand
 - https://github.com/qinhanmin2014/kaggle-bike-sharing-demand
