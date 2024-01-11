@@ -24,5 +24,5 @@ https://www.kaggle.com/competitions/db23-hackathon/overview
 - cnt: count of total rental bikes including both casual and registered
 
 ### Cited
-https://github.com/logicalguess/kaggle-bike-sharing-demand
-https://github.com/qinhanmin2014/kaggle-bike-sharing-demand
+- https://github.com/logicalguess/kaggle-bike-sharing-demand
+- https://github.com/qinhanmin2014/kaggle-bike-sharing-demand
