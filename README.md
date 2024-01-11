@@ -23,6 +23,9 @@ https://www.kaggle.com/competitions/db23-hackathon/overview
 - windspeed: Normalized wind speed. The values are divided to 67 (max)
 - cnt: count of total rental bikes including both casual and registered
 
+### Evaluation
+- Evaluated by RMSE
+
 ### Cited
 - https://github.com/logicalguess/kaggle-bike-sharing-demand
 - https://github.com/qinhanmin2014/kaggle-bike-sharing-demand
