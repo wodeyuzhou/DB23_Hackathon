@@ -1,10 +1,10 @@
 # DB23 Hackathon-bike-sharing-demand
 https://www.kaggle.com/competitions/db23-hackathon/overview
-- code/ - main code
-    - main.py - solution based on Gradient Boost and Random Forest, rank 1 (55.63506)
-    - main.ipynb - detailed solution with some explanations
-- data/ - the datasets
-- output/ - output of the solution
+
+![스크린샷 2024-01-17 16 01 44](https://github.com/wodeyuzhou/DB23_Hackathon/assets/104478598/a6822368-3421-4383-bc62-15745388e055)
+- code/
+    - main.py - Gradient Boost & Random Forest 사용, Private 1위 (RMSE, 55.63506)
+    - main.ipynb - main.py 추가설명
 
 ### Data Fields
 - dteday : date
@@ -25,9 +25,6 @@ https://www.kaggle.com/competitions/db23-hackathon/overview
 - windspeed: Normalized wind speed. The values are divided to 67 (max)
 - cnt: count of total rental bikes including both casual and registered
 
-### Evaluation
-- Evaluated by RMSE
-
-### Citation
+### 출처
 - https://github.com/logicalguess/kaggle-bike-sharing-demand
 - https://github.com/qinhanmin2014/kaggle-bike-sharing-demand
